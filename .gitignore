@@ -1,0 +1,8 @@
+node_modules
+dist
+build
+*-lock.json
+test_output*.txt
+playground/
+exports/
+.vscode
